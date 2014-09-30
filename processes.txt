@@ -1,0 +1,24 @@
+-- PID Original do Programa = 6740 ---
+-----------------NETO------------------------------------
+Processo neto diz:"Meu PID eh = 6742"
+Processo neto diz:"Sou filho do = 6741"
+400
+500
+600
+700
+O processo Neto vai morrer...
+---------------FILHO-----------------------------------
+Processo filho diz:"Meu PID eh = 6741"
+Processo filho diz:"Sou filho do = 6740"
+150
+200
+O processo Filho vai morrer...
+-----------------PAI------------------------------------
+Processo pai diz: "Para mim, o fork retornou: 6741"
+Processo pai diz: "Meu PID eh = 6740"
+10
+20
+30
+40
+50
+O processo Pai vai morrer...
